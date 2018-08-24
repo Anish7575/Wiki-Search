@@ -1,0 +1,48 @@
+#search{
+  position: absolute;
+  top: 250px;
+  left: 150px;
+}
+#image{
+  width:200px;
+  position:absolute;
+  left: 500px;
+}
+#buttons{
+  position: absolute;
+  left: 335px;
+  top: 75px;
+}
+#searchval{
+  width: 800px;
+  height: 30px;
+  box-shadow: 0px 4px 4px 0px;
+  border: 2px solid blue;
+}
+#btn{
+  width:55px;
+  height:30px;
+  box-shadow: 0px 4px 4px 0px;
+}
+#r{
+  height:30px;
+  box-shadow: 0px 4px 4px 0px;
+}
+#desc{
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+  position: absolute;
+  right: 5px;
+}
+#results{
+  position: absolute;
+  top:150px;
+  background-color: dodgerblue;
+}
+ul li{
+  background-color: cornsilk;
+  margin: 25px;
+  border: 2px solid grey;
+  box-shadow: 0px 4px 4px 0px;
+}
